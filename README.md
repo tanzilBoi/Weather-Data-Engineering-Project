@@ -71,9 +71,9 @@ weather-data-engineering-project/
 
 Your Name
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/tanzil-ameen-23370521a
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/tanzilBoi
 
 ---
 
