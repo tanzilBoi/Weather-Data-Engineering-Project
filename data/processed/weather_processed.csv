@@ -1,1 +1,6 @@
-
+City,Temperature,Humidity,Weather,Country
+Bangalore,298.55,78,Clouds,IN
+Mumbai,301.15,70,Clear,IN
+Delhi,303.15,60,Haze,IN
+Chennai,300.15,75,Clouds,IN
+Hyderabad,299.15,65,Clear,IN
