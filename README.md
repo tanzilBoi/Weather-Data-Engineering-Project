@@ -68,8 +68,7 @@ weather-data-engineering-project/
 ---
 
 ## 👨💻 Author
-
-Your Name
+Tanzil Ul Ameen
 
 LinkedIn: https://www.linkedin.com/in/tanzil-ameen-23370521a
 
